@@ -1,0 +1,15 @@
+
+
+.imagem {
+    height: 300px;
+    width:300px;
+    margin: 10px -30px ;
+    border-radius: 3%;
+    align-items: center;
+}
+div{
+    border-radius: 3% ;
+    background-color: white;
+    margin: auto 515px ;
+    text-align: center;
+}
